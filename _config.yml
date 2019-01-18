@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: [archzero | ArchLinuxArm]
-description: [Basic NAS built on Raspberry Pi Zero W]
+title: archzero | ArchLinuxArm
+description: Basic NAS built on Raspberry Pi Zero W
 logo: /img/logo.png
-show_downloads: [false]
+show_downloads: false
