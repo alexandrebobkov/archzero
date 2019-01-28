@@ -15,7 +15,7 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-PROMPT='%B%F{red}%b%n%f@%F{blue}%m%F{white}%f %F{yellow}%~%f 
+PROMPT='%B%F{red}%b%n%f@%F{green}%m%F{white}%f %F{cyan}%~%f 
 [%@ %w] _> %# '
 
 alias ll='ls -l --color=auto -h'
