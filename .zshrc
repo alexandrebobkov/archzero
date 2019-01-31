@@ -22,3 +22,6 @@ alias ll='ls -l --color=auto -h'
 alias la='ls -a --color=auto -h'
 alias l='ls -l --color=auto -h'
 alias ls='ls --color -F'
+
+alias ga='git add .'
+alias gs='git status'
